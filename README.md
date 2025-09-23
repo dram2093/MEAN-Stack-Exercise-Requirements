@@ -22,6 +22,8 @@ The test will consist on deploying a three tier app, front end, back end, and da
 3. The connection needs to be through HTTPS with a valid certificate (consider using ACM) (if you have a DNS).
 4. The apps need to be deployed on a Docker containers orchestration tool ECS (whether with EC2 nodes or Fargate), or any other similar tool (Kubernetes, Docker Swarm, even Docker Compose, etc).
 
-Please, be ready to do a walkthrough of the whole solution. The team is willing to ask some questions and probably presenting a situation that will require changes to the solution that need to happen in the live session. Don't hesitate to reach us if have any questions. Use your best judgement!
+Please, be ready to do a walkthrough of the whole solution. We will ask some questions and probably present a situation that will require changes to the solution that need to happen in the live session. Don't hesitate to reach us if you have any questions. Use your best judgement!
+
+We recommend using AWS for this exercise, but you are free to choose the cloud provider and tools that you think are best for the solution.
 
 Finally, don't hesitate to ask questions if any.
