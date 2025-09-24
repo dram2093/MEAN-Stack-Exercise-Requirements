@@ -11,7 +11,7 @@ The test will consist on deploying a three tier app, front end, back end, and da
 
 ### Must-Have
 
-1. The front end and back end need to be Dockerized.
+1. The front end and backend need to be Dockerized.
 2. The front end needs to be Internet exposed.
 3. The front end needs to be exposed via a load balancer.
 4. "High Availability" is required.
